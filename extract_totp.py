@@ -4,7 +4,7 @@ import pyotp
 import sys 
 
 # Load the QR code image
-image = cv2.imread(sys.args[0])
+image = cv2.imread(sys.argv[1])
 # Initialize the QR code detector
 detector = cv2.QRCodeDetector()
 # Detect and decode the QR code
