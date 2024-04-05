@@ -30,7 +30,7 @@ Contributions to improve this project are welcome! Whether it's bug fixes, featu
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-Special thanks to [mention any contributors or libraries used].
+Special thanks to [PyOTP](https://pyauth.github.io/pyotp/).
 
 ---
 
